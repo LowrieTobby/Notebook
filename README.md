@@ -16,6 +16,6 @@
 
 ## Categories
 
-- [English Notebook](EnglisNote\README.md) 
-- [高数笔记本](高数笔记本\README.md) 
-- [大学物理笔记本](物理笔记本\README.md) 
+- [English Notebook](EnglisNote/README.md) 
+- [高数笔记本](高数笔记本/README.md) 
+- [大学物理笔记本](物理笔记本/README.md) 
